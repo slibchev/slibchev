@@ -4,7 +4,7 @@ I am currently learning C# in SoftUni.
 
 This is my contact detail: slibchev@gmail.com
 
-Use new technology ,save the planet ! ! !
+
 
 
 <!---
